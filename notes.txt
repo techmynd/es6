@@ -1,0 +1,10 @@
+compatibility
+https://kangax.github.io/compat-table/es6/
+
+es6 playground
+https://jsbin.com/?js,console,output
+https://jsbin.com/?js,console
+
+
+topheman/vanilla-es6-jspm
+https://github.com/topheman/vanilla-es6-jspm
