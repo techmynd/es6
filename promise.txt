@@ -1,0 +1,2 @@
+https://www.stackchief.com/tutorials/JavaScript%20ES6%20Promises
+
