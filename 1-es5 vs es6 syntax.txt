@@ -1,0 +1,25 @@
+es5
+===
+
+var jQuery = require('jQuery');
+var port = 3000;
+
+
+
+es6
+===
+
+import jQuery from 'jQuery';
+const port = 3000;
+
+
+
+
+
+Transpiling
+===========
+no babel processing for es5 needed
+"launch-local-express": "node build_scripts/srcServer.js",
+
+babel processing a script that has es6 code
+"launch-local-express": "babel-node build_scripts/srcServer.js",
