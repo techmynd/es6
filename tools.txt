@@ -1,0 +1,8 @@
+tools and boiler plates
+=======================
+
+http://plnkr.co/edit/kWaou7bAoMWSn6S7A9ac?p=info
+
+https://github.com/topheman/vanilla-es6-jspm
+
+https://github.com/thoughtram/es6-babel-browserify-boilerplate
