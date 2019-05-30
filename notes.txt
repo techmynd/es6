@@ -1,3 +1,5 @@
+http://es6-features.org/#Constants
+
 compatibility
 https://kangax.github.io/compat-table/es6/
 
