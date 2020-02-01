@@ -1,0 +1,4 @@
+question and solution is in test.ts file 
+test.js is the output
+
+> tsc test.ts
